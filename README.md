@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # About me and a few fun facts
 My name is Tsholofelo Rakomane; I am a 24-year-old BSc chemical engineering grauate and I obtained my qualification at the
-University of the Witwatersrand in 2019. I am a Dimension Data GAP2020 intern who is really into learning new things each and every day. I am a food lover who balances that with a strict gym programme. I am also a very big fan of local football seeing as I am a very big Orlando Pirates supporter who enjoys engaging in the politics that come with supporting one of the biggest teams in South Africa. I would say one of unique features is my height, it is always something that leaves people with something to say seeing as I appear quite small but you know what they say about dynamite.
+University of the Witwatersrand in 2019; I am born and bred in the West Rand area. I am a Dimension Data GAP2020 intern who is really into learning new things each and every day. I am a food lover who balances that with a strict gym programme. I am also a very big fan of local football seeing as I am a very big Orlando Pirates supporter who enjoys engaging in the politics that come with supporting one of the biggest teams in South Africa. I would say one of unique features is my height, it is always something that leaves people with something to say seeing as I appear quite small but you know what they say about dynamite.
 ### Header 3
 
 - Bulleted
