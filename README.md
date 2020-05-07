@@ -37,7 +37,7 @@ University of the Witwatersrand in 2019; I am born and bred in the West Rand are
 
 ### Contact me via 
 E-mail: rakomane.tsholofelo10@gmail.com
-LinkedIn url: https://www.linkedin.com/in/tsholofelo-rakomane-1a9522128
+<p>LinkedIn url: https://www.linkedin.com/in/tsholofelo-rakomane-1a9522128</p>
 
 - Bulleted
 - List
