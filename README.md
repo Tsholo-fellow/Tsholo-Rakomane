@@ -6,9 +6,10 @@ My name is Tsholofelo Rakomane; I am a 24-year-old BSc(Hons) chemical engineerin
 University of the Witwatersrand in 2019; I am born and bred in the West Rand area in a township known as Mohlakeng. I am a Dimension Data GAP2020 intern who is really into learning new things each and every day. I am a food lover who balances that with a strict gym programme. I am also a very big fan of local football seeing as I am a very big Orlando Pirates supporter who enjoys engaging in the politics that come with supporting one of the biggest teams in South Africa. I would say one of unique features is my height, it is always something that leaves people with something to say seeing as I appear quite small but you know what they say about dynamite.
 
 ### Education
--Qualification: BSc(Hons) Chemical Engineering
--Institution: University of the Witwatersrand
--Duration:2014-2019
+
+<li>Qualification: BSc(Hons)-Chemical Engineering<li>
+<li>Institution: University of the Witwatersrand<li>
+<li>Duration:2014-2019<li>
 
 ###
 
