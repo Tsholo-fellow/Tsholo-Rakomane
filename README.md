@@ -11,7 +11,6 @@ University of the Witwatersrand in 2019; I am born and bred in the West Rand are
 <li>Institution: University of the Witwatersrand</li>
 <li>Duration:2014-2019</li>
 
-
 ### Certifications
 
 <li>Certification: Cetified SAFe 5 Agilist</li>
