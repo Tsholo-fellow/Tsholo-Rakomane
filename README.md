@@ -7,9 +7,9 @@ University of the Witwatersrand in 2019; I am born and bred in the West Rand are
 
 ### Education
 
-Qualification: BSc(Hons)-Chemical Engineering
-Institution: University of the Witwatersrand
-Duration:2014-2019
+<li>Qualification: BSc(Hons)-Chemical Engineering</li>
+<li>Institution: University of the Witwatersrand</li>
+<li>Duration:2014-2019</li>
 
 ###
 
