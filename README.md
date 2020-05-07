@@ -23,6 +23,7 @@ University of the Witwatersrand in 2019; I am born and bred in the West Rand are
 <li>Year: February 2020-Current</li>
 
 
+
 <p><li>Company: Hannes van Niekerk Waste Waste Water Treatment Works</li>
 <li>Title: Vacation work student</li>
 <li>Year: November 2018-January 2019</li></p>
