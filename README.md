@@ -13,9 +13,9 @@ University of the Witwatersrand in 2019; I am born and bred in the West Rand are
 
 ### Certifications
 
-<li>Certification: Cetified SAFe 5 Agilist</li>
+<p><li>Certification: Cetified SAFe 5 Agilist</li>
 <li>Cetification awarder: Scaled Agile Framework for Enterprises(SAFe)</li>
-<li>Year:2020</li>
+<li>Year:2020</li></p>
 
 ### Work Experience
 <li>Company: Dimension Data (Pty) Ltd</li>
