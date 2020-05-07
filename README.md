@@ -22,8 +22,6 @@ University of the Witwatersrand in 2019; I am born and bred in the West Rand are
 <li>Title: GAP2020 Intern</li>
 <li>Year: February 2020-Current</li>
 
-
-
 <p><li>Company: Hannes van Niekerk Waste Waste Water Treatment Works</li>
 <li>Title: Vacation work student</li>
 <li>Year: November 2018-January 2019</li></p>
@@ -39,23 +37,5 @@ University of the Witwatersrand in 2019; I am born and bred in the West Rand are
 E-mail: rakomane.tsholofelo10@gmail.com
 <p>LinkedIn url: https://www.linkedin.com/in/tsholofelo-rakomane-1a9522128</p>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Tsholofelo.png](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tsholo-fellow/Tsholo-Rakomane/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
