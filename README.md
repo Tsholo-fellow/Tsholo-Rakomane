@@ -17,8 +17,17 @@ University of the Witwatersrand in 2019; I am born and bred in the West Rand are
 <li>Cetification awarder: Scaled Agile Framework for Enterprises(SAFe)</li>
 <li>Year:2020</li>
 
-
 ### Work Experience
+<li>Company: Dimension Data (Pty) Ltd</li>
+<li>Title: GAP2020 Intern</li>
+<li>Year: Currently(2020)</li>
+
+<li>Company: Hannes van Niekerk Waste Waste Water Treatment Works</li>
+<li>Title: Vacation work student</li>
+<li>Year: November 2018-January 2019</li>
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
