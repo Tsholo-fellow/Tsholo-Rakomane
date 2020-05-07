@@ -20,23 +20,23 @@ University of the Witwatersrand in 2019; I am born and bred in the West Rand are
 ### Work Experience
 <li>Company: Dimension Data (Pty) Ltd</li>
 <li>Title: GAP2020 Intern</li>
-<li>Year: Currently(2020)</li>
+<li>Year: February 2020-Current</li>
 
 
 <p><li>Company: Hannes van Niekerk Waste Waste Water Treatment Works</li>
 <li>Title: Vacation work student</li>
 <li>Year: November 2018-January 2019</li></p>
 
+### Hobbies 
+<li>Gym</li>
+<li>Baking</li>
+<li>Cooking</li>
+<li>Listening to music</li>
 
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-
-### Header 3
+### Contact me via 
+E-mail: rakomane.tsholofelo10@gmail.com
+LinkedIn url: https://www.linkedin.com/in/tsholofelo-rakomane-1a9522128
 
 - Bulleted
 - List
